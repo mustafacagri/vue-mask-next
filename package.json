@@ -1,6 +1,6 @@
 {
   "name": "vue-mask-next",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Vue 3 component for masking input fields based on a specified pattern.",
   "main": "index.js",
   "scripts": {},
