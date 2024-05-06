@@ -1,0 +1,28 @@
+{
+  "name": "vue-mask-next",
+  "version": "0.0.1",
+  "description": "A Vue 3 component for masking input fields based on a specified pattern.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "vue",
+    "vue3",
+    "component",
+    "input",
+    "mask",
+    "form"
+  ],
+  "bugs": {
+    "url": "https://github.com/mustafacagri/vue-mask-next/issues"
+  },
+  "homepage": "https://github.com/mustafacagri/vue-mask-next#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafacagri/vue-mask-next.git"
+  },
+  "author": "Mustafa Çağrı Güven <me@mustafacagri.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.4.26"
+  }
+}
